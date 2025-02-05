@@ -1,12 +1,1 @@
-Sorting Visualizer is an interactive web-based application that demonstrates various sorting algorithms through visual animations. This project helps users understand the inner workings of sorting techniques by visualizing how data elements are rearranged in real time.
-
-Features:
-✅ Multiple Sorting Algorithms – Supports Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and more.
-✅ Real-Time Visualization – Watch the sorting process step by step with animations.
-✅ Customizable Array Size & Speed – Adjust the number of elements and sorting speed.
-✅ Randomized Data Generation – Generate a new dataset with random values.
-✅ User-Friendly Interface – Simple and intuitive UI with interactive controls.
-
-Technologies Used:
-🟢 Frontend: HTML, CSS, JavaScript 
-⚙️ Animation Library: CSS animations
+Sorting Visualizer is an interactive web-based application designed to demonstrate various sorting algorithms through real-time animations. It helps users understand sorting techniques such as Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort by visually representing how data elements are rearranged. The project features customizable array sizes and sorting speeds, allowing users to experiment with different scenarios. Built using HTML, CSS, and JavaScript, the application dynamically updates the DOM to animate the sorting process
